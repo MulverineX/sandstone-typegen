@@ -1,0 +1,15 @@
+{
+  "name": "sandstone_types",
+  "version": "0.0.1",
+  "description": "Generates types for the Sandstone minecraft pack precompiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MulverineX",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "@mcschema/core": "^0.10.0-beta.6",
+    "typescript": "^4.0.3"
+  }
+}
